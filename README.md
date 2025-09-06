@@ -1,6 +1,6 @@
 # National Hospital Data Lake ETL Pipeline
 
-![Hospital Data Lake Banner](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80)
+![Hospital Data Lake Banner](https://about-britain.com/photos2/hospital-uk.jpg)
 
 Welcome to the **National Hospital Data Lake ETL Pipeline** repository! This repo contains a Databricks notebook for orchestrating the ingestion, cleaning, and transformation of multi-source hospital data into Azure Data Lake Storage, ready for analytics and downstream processing.
 
